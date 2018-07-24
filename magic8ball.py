@@ -12,6 +12,8 @@ import random
 		return 'Ask again later'
 	elif answerNumber==6:
 		return 'concentrate and ask again'
+	elif answerNumber==7:
+		return 'concentrate again'
 		
 
 #r=random.randint(1,6)
